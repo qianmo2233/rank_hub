@@ -16,7 +16,7 @@ dependencies:
   cached_network_image: ^3.4.1
   camera: ^0.11.0+2
   chart_sparkline: ^1.1.1
-  data_table_2: ^2.5.16
+  data_table_2: ^2.5.17
   dio: ^5.7.0
   dio_smart_retry: ^6.0.0
   flutter:
